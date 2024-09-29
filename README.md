@@ -16,7 +16,7 @@
 - 💬 Ask me about *React,MondoDB,Node.js,Javascript,HTML,CSS.*
 
 - 📫 How to reach me *prakashsingh98310@gmail.com*
--  LINKEDIN [LINK_TO_ME]((https://www.linkedin.com/in/prakash-singh-93751026a/))
+-  LINKEDIN [LINK_TO_ME]([https://www.linkedin.com/in/prakash-singh-93751026a/])
 
 - 📄 Know about my experiences 🤞[RESUME](..)
 <br/>

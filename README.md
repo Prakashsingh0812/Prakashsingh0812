@@ -79,18 +79,27 @@
  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
  </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+<!-- <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
- </a>
+ </a> -->
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
  </a> </p>
-<h2>❤‍🔥 Streak stats:</h2>
-<p align="center"><img style="background:black" align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairaj28&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=18122B" alt="jairaj28" /></p>
+<h2>🔥 Streak stats:</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prakashsingh0812&theme=react&hide_border=true&background=18122B" alt="GitHub Streak Stats" />
+</p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jairaj28&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=18122B" alt="jairaj28" /></p>
+<h2>💻 Top Languages:</h2>
+<p align="center">
+  <img style="background:black" align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prakashsingh0812&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=18122B" alt="Prakashsingh0812" />
+</p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jairaj28&theme=react&hide_border=true&bg_color=18122B" alt="jairaj28" /></p>
+<h2>📊 GitHub Stats:</h2>
+<p align="center">
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prakashsingh0812&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=18122B" alt="Prakashsingh0812" />
+</p>
+
 <h2 align="center">🐍 shhh Eating my contribution graph</h2>
 <div align="center"> 
 <img  src="https://github.com/JAIRAJ28/JAIRAJ28/blob/output/github-contribution-grid-snake.svg" style="background-color: black" alt="SNAKE_GIF">

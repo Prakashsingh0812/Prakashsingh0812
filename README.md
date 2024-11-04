@@ -20,6 +20,7 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prakash%20Singh-blue)](https://www.linkedin.com/in/prakash-singh-93751026a/)
 
 - 📄 Know about my experiences 🤞[RESUME](./assets-readme/PrakashSingh-FullStackWebDeveloper-rLLw.pdf)
+
 <br/>
 <br/>
 <h2>✍ Dev Quote :</h2>

@@ -19,7 +19,8 @@
 - 📫 How to reach me *prakashsingh98310@gmail.com*
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prakash%20Singh-blue)](https://www.linkedin.com/in/prakash-singh-93751026a/)
 
-- 📄 Know about my experiences 🤞[RESUME](./assets-readme/PrakashSingh-FullStackWebDeveloper-rLLw.pdf)
+- 📄 Know about my experiences 🤞[RESUME](https://github.com/Prakashsingh0812/your-repository-name/raw/main/assets-readme/PrakashSingh-FullStackWebDeveloper-rLLw.pdf)
+
 
 <br/>
 <br/>

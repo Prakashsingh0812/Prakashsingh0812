@@ -114,7 +114,7 @@
       <th>Repository</th>
     </tr>
     <tr>
-      <td>Portfolio Website</td>
+      <td>Café Serene</td>
       <td>
         <a href="https://fanciful-pastelito-8a18ed.netlify.app/" target="_blank">
           Live Demo
@@ -127,14 +127,14 @@
       </td>
     </tr>
     <tr>
-      <td>Chat Application</td>
+      <td>Schema Sketchers</td>
       <td>
-        <a href="https://chat-app-live-demo.com" target="_blank">
+        <a href="https://ai-for-earth-no4l.vercel.app/">
           Live Demo
         </a>
       </td>
       <td>
-        <a href="https://github.com/Prakashsingh0812/chat-app" target="_blank">
+        <a href="https://github.com/mohammadkaifshaikh01/Ai_For_Earth">
           Repository
         </a>
       </td>
@@ -142,12 +142,12 @@
     <tr>
       <td>Task Manager</td>
       <td>
-        <a href="https://task-manager-live-demo.com" target="_blank">
+        <a href="https://array-archers-023.vercel.app/">
           Live Demo
         </a>
       </td>
       <td>
-        <a href="https://github.com/Prakashsingh0812/task-manager" target="_blank">
+        <a href="https://github.com/sayanroy-bash/Task-Pro">
           Repository
         </a>
       </td>

@@ -104,6 +104,59 @@
 </p>
 
 <h2 align="center">🐍 shhh Eating my contribution graph</h2>
+
+<h2 align="center">🚀 My Projects</h2>
+<div align="center">
+  <table>
+    <tr>
+      <th>Project Name</th>
+      <th>Live Demo</th>
+      <th>Repository</th>
+    </tr>
+    <tr>
+      <td>Portfolio Website</td>
+      <td>
+        <a href="https://fanciful-pastelito-8a18ed.netlify.app/" target="_blank">
+          Live Demo
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Sumitsahani/Rights-Rangers_004" target="_blank">
+          Repository
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Chat Application</td>
+      <td>
+        <a href="https://chat-app-live-demo.com" target="_blank">
+          Live Demo
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Prakashsingh0812/chat-app" target="_blank">
+          Repository
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Task Manager</td>
+      <td>
+        <a href="https://task-manager-live-demo.com" target="_blank">
+          Live Demo
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Prakashsingh0812/task-manager" target="_blank">
+          Repository
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
 <div align="center"> 
 <img  src="https://github.com/JAIRAJ28/JAIRAJ28/blob/output/github-contribution-grid-snake.svg" style="background-color: black" alt="SNAKE_GIF">
 </div>
